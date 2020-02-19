@@ -16,7 +16,7 @@
         <!--做文件上传的div-->
         <div class="layui-upload" align="center" style="margin-bottom: 20px;">
             <div class="layui-upload-list">
-                <img class="layui-upload-img" id="demo1" src="http://q1cvq2na2.bkt.clouddn.com/fm2.jpg" width="150px" height="150px"/>
+                <img class="layui-upload-img" id="demo1" src="http://q4e0bnbzv.bkt.clouddn.com/fm2.jpg" width="150px" height="150px"/>
                 <p id="demoText"></p>
             </div>
             <button type="button" class="layui-btn" id="test1">上传图片</button>
